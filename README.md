@@ -2,7 +2,7 @@
 
 ## Hotspot
 * ESSID: minipikvm-AP (based on `${HOSTNAME}-AP`)
-* Password: `minipikvmrocks`
+* Password: `pikvmisawesome`
 * URL: https://10.5.4.1/
 
 ## Users
