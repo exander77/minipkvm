@@ -7,3 +7,11 @@
 
 ## Users
 User/password: `admin`/`admin`, `root`/`root`
+
+## Enable ethernet shield
+Edit: `/boot/config.txt`
+Add:
+```
+dtparam=spi=on
+dtoverlay=enc28j60
+```
